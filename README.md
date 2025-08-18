@@ -17,6 +17,9 @@ or download the zip file
 ## Install requirements
 
 ```
+Create and activate a virtual environment
+venv\Scripts\activate
+
 pip install -r requirements.txt
 ```
 
