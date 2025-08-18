@@ -3,11 +3,19 @@ WorkBee is a Django-based job portal designed to connect job seekers with employ
 
 ## Installation 
 
-Download Zip File
+```
+open terminal and type
+https://github.com/nashrh786/WorkBee-JobPortal-DjangoProject.git
+
+or simply download using the url below
+https://github.com/nashrh786/WorkBee-JobPortal-DjangoProject.git
+
+or download the zip file
+
+```
 
 ## Install requirements
 
-```
 pip install -r requirements.txt
 ```
 ## Database
